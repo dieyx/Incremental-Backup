@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# PyInstaller
+build/
+dist/
+package_*/
+*.spec.bak
+
+# Local test data and reports
+test_source/
+test_target/
+对比报告_*.txt
+
+# Local screenshots or UI captures
+*.png
+*.jpg
+*.jpeg
+
+# IDE / system
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
